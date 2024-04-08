@@ -1,7 +1,7 @@
 import "./App.css";
 import Btn from "@mui/material/Button";
 import SaveIcon from "@mui/icons-material/Save";
-import CheckBox from "@mui/icons-material/CheckBox";
+import CheckBox from "@mui/material/Checkbox";
 import RemoveIcon from "@mui/icons-material/RemoveCircleOutline";
 
 function App() {
